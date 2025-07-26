@@ -84,7 +84,7 @@
 
 ### Diagram ERD
 
-![ERD](./assets/erd_penjualan_casing.png)
+![ERD](.ERD_UAS.png)
 
 ## 3. Cara Menggunakan Aplikasi
 
