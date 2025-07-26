@@ -109,14 +109,6 @@
 * Kelola Transaksi dan Laporan Penjualan
 * Lihat dan Hapus Ulasan
 
-#### Pelanggan:
-
-* Login dan Ubah Profil
-* Lihat Produk
-* Tambah ke Keranjang
-* Checkout dan Upload Bukti Pembayaran
-* Lihat Riwayat Transaksi
-* Beri Ulasan pada Produk
 
 ### Navigasi
 
